@@ -1,17 +1,10 @@
-## Welcome to MY CODE FELLOWS NOTES FOR NOW
+### Reading Notes
 
 
-I Am simply here attempting to write notes on the growth mindset mentioned in class today. 
 
-You can use the [editor on GitHub](https://github.com/JimD325/Reading-Notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+A growth mindset is one that enables someone to effectively meet the challenges that come their way, overcome them, and become better in a particular area when doing so. From a growth mindset one should have the ability to truly engage with issues that come their way. This means giving it their full effort and attention, and not letting bumps in the road keep them from where they are trying to go. The graphic given with the reading is a great way to visualize the difference between the growth and fixed mindset, and includes mental notes to tell yourself when certain issues arise. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-Here are my notes for now.
-Explain Growth Mindset in your own words. 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+![alt text](
 ```markdown
 Syntax highlighted code block
 
