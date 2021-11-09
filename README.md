@@ -7,17 +7,15 @@ A growth mindset is one that enables someone to effectively meet the challenges 
 ![alt text](https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png?resize=768%2C960&ssl=1)
 
 ### Growth Mindset Reminders
-<ol>
-  <li> Eagerly take on new tasks
-      <p> There is no way to grow without doing things you havn't done before. Take the first step towards growing outside of your comfort zone. 
-    </p>
-  </li>
-  <li> View criticism as valuable feedback, not as a personal attack. 
-    <p> Many people have worked on similar projects to you in the past. Use their criticism as a source of information on how you can do better. 
-    </p>
-  </li>
-  <li> Do ~~nt~~ ~~Qu~~ it
-    <p> Everyone feels like giving in from time to time. Resist that urge. Take a break if you need to, but perservere in the task until it is done.
-    </p>
-  </li>
+1 Eagerly take on new tasks
+      There is no way to grow without doing things you havn't done before. Take the first step towards growing outside of your comfort zone. 
+   
+2 View criticism as valuable feedback, not as a personal attack. 
+     Many people have worked on similar projects to you in the past. Use their criticism as a source of information on how you can do better. 
+   
+
+  3 Don't Quit
+ Everyone feels like giving in from time to time. Resist that urge. Take a break if you need to, but perservere in the task until it is done.
+
+
   
