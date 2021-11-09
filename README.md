@@ -17,6 +17,6 @@ A growth mindset is one that enables someone to effectively meet the challenges 
     </p>
   </li>
   <li> When you feel like quitting, don't
-    <p> Everyone feels like giving in from time to time. ##Resist that urge. Take a break if you need to, but perservere in the task until it is done.
+    <p> Everyone feels like giving in from time to time. Resist that urge. Take a break if you need to, but perservere in the task until it is done.
     </p>
   </li>
