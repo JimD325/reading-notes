@@ -1,7 +1,9 @@
-### Reading Notes (11/8/2021)
+# Reading Notes Intro And Table of Contents
 
-
-
+## Table of Contents
+[Day 2](Day2.md)
+[Day 3](Day3.md)
+1
 A growth mindset is one that enables someone to effectively meet the challenges that come their way, overcome them, and become better in a particular area when doing so. From a growth mindset one should have the ability to truly engage with issues that come their way. This means giving it their full effort and attention, and not letting bumps in the road keep them from where they are trying to go. The graphic given with the reading is a great way to visualize the difference between the growth and fixed mindset, and includes mental notes to tell yourself when certain issues arise. 
 
 ![alt text](https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png?resize=768%2C960&ssl=1)
