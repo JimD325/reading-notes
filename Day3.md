@@ -1,6 +1,22 @@
 # Day 3 Notes
 
 
+## Text Editor Summation: 
+
+The author describes a text editor as a peice of software that allows you to write and manage text, and should ideally have: 
+
+1. Code Completion
+2. Syntax Highlighting
+3. Variety of Themes to reduce eye fatigue 
+4. The ability to chose from a healthy amount of extensions when you can. 
+
+Code completion displays possible suggestions based on what you have typed, in a similar fashion to google auto fill. 
+
+Syntax Highlighting makes the text you type more noticeable by colorizing the text, with atttributes, elements, copy etc having different colors. 
+
+Themes are similar to backgroun colors for your computer or browser, with many developers opting for a darker background with brighter text to reduce the impact of eye strain caused by long hours of looking at the screen. 
+
+Extensions enable features that you might like to add on as time goes on, similarly to how programs such as as excel have an add on for goal seek or solver. 
 Raw Word Notes: 
 
 11/10/2021 In Class Notes
