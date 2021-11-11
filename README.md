@@ -14,7 +14,7 @@ A growth mindset is one that enables someone to effectively meet the challenges 
      Many people have worked on similar projects to you in the past. Use their criticism as a source of information on how you can do better. 
    
 
-  3 Don't Quit
+  3 Dont Quit, DO IT
  Everyone feels like giving in from time to time. Resist that urge. Take a break if you need to, but perservere in the task until it is done.
 
 
