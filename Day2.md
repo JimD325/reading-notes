@@ -1,7 +1,7 @@
 # Day 2
 
 Raw Word Notes: 
-
+Lecture
 
 11/9/2021 
 
@@ -38,3 +38,25 @@ Cd ../../../..
 Copy command is cp. Use cp then two arguments, they are the file name/location and then where you want to copy it to. So cp[filename] [destination location]
 To go back is cd (change directory) then ..
 
+Reading notes 
+
+Text Editors: 
+There are many different kinds out there, but the good ones have (according to the author) code completeion, syntax highlighting, a variety of themes, and a healthy number of extensions. 
+
+Notepad on windows, text edit on mac are built in text editors. Linus computers may have a wide variety of text editors.
+
+Q: Whats the main difference between Linux vs PC/Mac=? 
+
+Your main HTML file should be called "index.html", your CSS file should be called "style.css"
+
+Notepad++: free text editor for windows computers only. Has all the features the author likes in a text editor. 
+
+TextWrangler/BB Edit: Mac only. Textwrangler was discontinued, but it was packed into BB Edit, another feature laden text editor. Must purchase it if you want the full features of BB edit. 
+
+VS CODE: Literally what I'm typing in right now. Author really likes this one; has all the features, works for windows/mac/linux, has emmet shorthand, and an active developing community. 
+
+Atom: free for WML, made by github team. Author likes this one. 
+
+Brackets: WML compatible, made by adobe team. Only supports HTML CSS and JavaScript, need to add extensions to support more. Has live preview. 
+
+Sublime Text 3: Costs 70 dollars (booooo) it has all the necessary tools though, and a reputation for being fast and responsive. 
