@@ -1,22 +1,6 @@
 # Day 3 Notes
 
 
-## Text Editor Summation: 
-
-The author describes a text editor as a peice of software that allows you to write and manage text, and should ideally have: 
-
-1. Code Completion
-2. Syntax Highlighting
-3. Variety of Themes to reduce eye fatigue 
-4. The ability to chose from a healthy amount of extensions when you can. 
-
-Code completion displays possible suggestions based on what you have typed, in a similar fashion to google auto fill. 
-
-Syntax Highlighting makes the text you type more noticeable by colorizing the text, with atttributes, elements, copy etc having different colors. 
-
-Themes are similar to backgroun colors for your computer or browser, with many developers opting for a darker background with brighter text to reduce the impact of eye strain caused by long hours of looking at the screen. 
-
-Extensions enable features that you might like to add on as time goes on, similarly to how programs such as as excel have an add on for goal seek or solver. 
 Raw Word Notes: 
 
 11/10/2021 In Class Notes
@@ -31,11 +15,51 @@ Repositories/Repos/Projects/Folders
 Really large projects might have multiple repositories for diff parts of their system IE front end vs back end. Repositories can live on github and/or your computer. 
 
 Clone Github to Git on computer using command git clont “insert URL here”. Only things with the .git folder is going to be monitored by git. Then we will open it up in VS code, and then were gonna write some code that does not yet exist in the cloud. When you make changes to your machine, GH does not know WTF is going on. Need to do three things to get GH to know about local machine. 
-1.	Add files (git add ________)
-2.	Commit “insert message here” 
-3.	Push (takes whole version on your machine to the GH) 
+1.	Add files (git add ________) git add . 
+2.	Commit “insert message here” git commit -m""
+3.	Push (takes whole version on your machine to the GH) git push origin main 
+
 This whole Process is Called ACP	
 You can add and commit as many files as you would like before you push. 
 Git push origin main: Memorize this, its how you push stuff to github. 
 
+Reading Notes: 
 
+[Reading Link](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#1) 
+
+Version Control: allows you to revist previous versions of a file, so if you screw up the code you can just revert back
+Local Version Control: One database on your hard disk that stores the changes
+Centralized Version Control: Version control set up on a server. Allows many people to work on the same files. 
+Distributed Version Control: Same as centralized, except there are backups (mirrored repositories) in case of server failure
+
+What is git? DCVS
+any saved version of your project (called a commit). Git creates snapshot and stores references to it. Git relies mostly on local operations, so even if you are not connected to the interwebs you can still work, just cant upload it without a connection. Tracks every change applied to any directory/file. 
+
+3 states of git files 
+1. Comitted: data securely stored in a local database.
+2. Modified: File has been changed but not comitted to the database. 
+3. Staged: Flagged a files changed version to be comitted in the next snapshot. 
+ 
+ Getting (gitting... hehe) Help
+
+Type in git help command
+import: 
+1. cd test (swith to the target projects directory)
+2. git init (git init command, at his stage you have created a new subdirectory named.git thatas the files)
+
+Making a copy= cloning, use command git clone "url goes here"
+
+Workflow: 
+
+![worflow](https://blog.udemy.com/wp-content/uploads/2015/08/image036.png)
+
+Working Directory is where the actual files are 
+Index is the area used for staging
+head points to the most recent commit. 
+
+Life cycle of sa file status: 
+
+![](https://blog.udemy.com/wp-content/uploads/2015/08/image006.png)
+
+Tracked files are part of the most recent file snapshot, can be modified unmodified or staged.
+Untracked files were not in last snapshot, and do not currently reside in the staging area.  
