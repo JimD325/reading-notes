@@ -68,3 +68,66 @@ Continue statement can be used to restart a while, do whhile, for, or label stat
 For in statement iterates a specified variable over all the enumerable properties of an object. 
 
 For...of statement creates a loop iterating over iterable objects, invoking a custome iteration hook with statements to be executed for the value of each distince proiperty. 
+
+**lecture Notes:** 
+
+Loops: We are going to focus on while, do while, and for loops. 
+
+While Loop: much like an if statement or a function, starts with the word
+while(condition){}
+//as loong as conidtion is met, code block will run
+ex: 
+
+letn number =1;
+while(number <5){
+    console.log(number);
+};  
+This would create an infinite loop
+
+so we do: 
+
+letn number =1;
+while(number <5){
+    number = number +1;
+    console.log(number);
+};
+
+could also do number ++ instead of number = number +1, that is an incremental of one. 
+
+Return vs Consol log
+
+Return actually returns the value back to someone, the console log just displays the answer. 
+
+While loops are basically if statements, just with multiple iterations. 
+
+Do while: 
+
+Rarely used in every day development because there are other ways to do it, but there is utility in games or user interactions. 
+Do while loops guaruntees you at least one iteration.
+
+let answer = ""
+d{
+let answer = prompt("how many cats does amanda have?");
+}while(answer != "2") 
+
+For Loops: 
+
+**One of the most fundamental tools you have as a developer**
+
+You need to know these, not an uncommon interview question to write down a for loop on a white board. Useful if you know you only want to give a few attempts to get the right answer, or how many items are in a list. 
+
+there are three parameters (all separated by a semi colon ;)
+
+**p 1 is declaring the variable and setting its value**
+
+**p 2 is the condition that must be met for the loop to run**
+
+**p 3 declare what happens to the variable after each iteration.** 
+
+must have exactly 3 parameters for the for loop to be run
+
+for(let bananna = 0; bananna < 5; bananna++){
+    console.log(bananna);
+}
+
+typically they use i instead of a actual variable name. thats because with the variable being declared inside of the for loop, it doesnt exist outside of the for loop. 
