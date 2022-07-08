@@ -4,3 +4,4 @@
 
 ### Pre-work
 - [SQL Bolt Practice](SQL_Prac.md)
+- [Engineering Readings](Eng_Readings.md)
